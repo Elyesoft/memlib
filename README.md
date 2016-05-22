@@ -1,2 +1,2 @@
 # memlib
-meory library
+memory library
